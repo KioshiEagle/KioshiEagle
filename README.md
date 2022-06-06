@@ -1,0 +1,4 @@
+- 👋 Je suis KioshiEagle
+- 👀 Intéressé par l'informatique en général j'aime apprendre des choses et renverser mes croyances.
+- 🌱 J'apprends actuellemment le php, ainsi que la cybersécurité et les modifications Windows.
+- 💞️ J'aimerais collaborer sur un os windows plus léger et plus privé ainsi que pour la cybersécurité.
